@@ -6,6 +6,7 @@
   "BOTNAME": "Mirror Bot v2.0.1",
   "GEMINI_KEY": "your_apikey", 
   "fcaOptions": {
+    "FCA_DIR": "fca-sus",
     "online": true, 
     "autoReconnec": true, 
     "forceLogin": true,
@@ -14,4 +15,4 @@
     "selfListen": false,
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Mobile/15E148 Safari/604.1"
   }
-} 
+}
