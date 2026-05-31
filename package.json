@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/rakomoro/Mirror-Bot-v2",
   "dependencies": {
-    "fca-sus": "^1.2.5",
+    "fca-sus": "latest",
     "@google/generative-ai": "^0.3.0",
     "better-sqlite3": "^9.0.0",
     "@miraipr0ject/assets": "",
