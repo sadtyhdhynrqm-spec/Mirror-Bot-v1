@@ -32,9 +32,9 @@
   },
   "homepage": "https://github.com/rakomoro/Mirror-Bot-v2",
   "dependencies": {
+    "fca-sus": "^1.2.5",
     "@google/generative-ai": "^0.3.0",
     "better-sqlite3": "^9.0.0",
-    "@dongdev/fca-unofficial": "^1.0.19",
     "@miraipr0ject/assets": "",
     "@supercharge/strings": "^1.28.0",
     "adm-zip": "^0.5.9",
@@ -53,7 +53,6 @@
     "eval": "",
     "express": "^4.17.2",
     "extract-zip": "",
-    "fca-shaon": "^18.0.0",
     "figlet": "",
     "form-data": "^4.0.0",
     "fs": "^0.0.1-security",
@@ -93,11 +92,7 @@
     "tinyurl": "^1.1.7",
     "to-zalgo": "^1.0.1",
     "totp-generator": "",
-    "unofficial-fb-chat-api": "^1.0.0",
-    "ws3-fca": "^1.0.23",
     "yt-search": "^2.10.4",
-    "ytdl-core": "^4.11.5", 
-    "@johnlester-0369/fca-unofficial-e2ee": "^1.4.19", 
-    "fca-official-uzair-rajput": "^1.13.0"
+    "ytdl-core": "^4.11.5"
   }
 }
