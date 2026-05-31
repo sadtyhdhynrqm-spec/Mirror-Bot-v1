@@ -16,8 +16,8 @@ module.exports.config = {
 const IMAGE_URL = "https://i.imgur.com/aAO58sQ.jpeg";
 const LOCAL_IMG_PATH = path.join(__dirname, "img", "menu.png");
 const FALLBACK_IMG_PATH = path.join(__dirname, "cache", "menu.jpg");
-const BOT_NAME = "Mirror Bot v2.0.1";
-const DEVELOPER_NAME = "Hakim Tracks";
+const BOT_NAME = "ميرور";
+const DEVELOPER_NAME" صديق قديم";
 
 async function getImageStream() {
   
